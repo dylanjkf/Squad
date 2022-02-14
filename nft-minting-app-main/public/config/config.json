@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF442F9f1af1C323CBB3A4809Ecf6A2ACC0ebca08",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xF442F9f1af1C323CBB3A4809Ecf6A2ACC0ebca08",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Doodle Bees",
+  "SYMBOL": "DOBENFT",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/squad-bees",
+  "SHOW_BACKGROUND": true
+}
